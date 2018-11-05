@@ -1,0 +1,1 @@
+EditorConfig — Одни Настройки для всех Редакторов/IDE - https://habr.com/post/220131/
